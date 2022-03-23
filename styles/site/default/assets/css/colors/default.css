@@ -1,0 +1,293 @@
+/*
+Template Name: Mulan / CV Template + RTL
+Template URI: http://elmanawy.info/demo/mulan
+Description: Mulan for resume / cv / portfolio template that's suitable for freelanner and anyone want to create online portflolio
+Author: Marwa El-Manawy
+Author URL: https://elmanawy.info
+Version: 2.3
+*/
+
+a {
+    color: #7d94b5;
+}
+
+a:hover {
+    color: #7d94b5;
+}
+
+.pagination .paginate_button.active a {
+    background-color: #7d94b5;
+    color: #ffffff;
+}
+
+.title-main-page h4:before {
+    border-color: #7d94b5;
+}
+
+.title-main-page p:after {
+    border-bottom: 5px solid #7d94b5;
+}
+
+.sub-title h6:before {
+    background: #7d94b5;
+}
+
+.section-head h4:before {
+    background: #7d94b5;
+}
+
+#preloader-circle span {
+    border: 8px solid #7d94b5;
+}
+
+.site-title span {
+    color: #7d94b5;
+}
+
+.header-main-menu li a i {
+    background: linear-gradient(135deg, #7d94b5, #6ceeff, #7d94b5, #ccc, #6ceeff);
+}
+
+.responsive-header {
+    color: #7d94b5;
+}
+
+.bout-list-summry li .icon-info {
+    background: linear-gradient(135deg, #7d94b5, #6ceeff, #7d94b5, #ccc, #6ceeff);
+}
+
+.special-block-bg::before {
+    border-color: #7d94b5 rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #7d94b5;
+}
+
+.special-block-bg::after {
+    border-color: rgba(0, 0, 0, 0) #7d94b5 #7d94b5 rgba(0, 0, 0, 0);
+}
+
+.service-block:hover h4 {
+    color: #7d94b5;
+}
+
+.overlay {
+    background: linear-gradient(-45deg, rgba(88, 195, 255, .8) 0, #7d94b5 40%, rgb(176, 236, 243) 100%);
+}
+
+.pulse-icon a {
+    color: #7d94b5;
+}
+
+.counter-block::before {
+    border-color: #7d94b5 rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #7d94b5;
+}
+
+.counter-block::after {
+    border-color: rgba(0, 0, 0, 0) #7d94b5 #7d94b5 rgba(0, 0, 0, 0);
+}
+
+.counter-block i {
+    color: #7d94b5;
+}
+
+.testimonial-review:before {
+    color: #7d94b5;
+}
+
+.owl-dot.active span {
+    background: linear-gradient(135deg, #7d94b5, #6ceeff, #7d94b5, #ccc, #6ceeff);
+}
+
+.timeline.currecnt .timeline-icon:after,
+.main-timeline .timeline:hover .timeline-icon:after {
+    background: linear-gradient(135deg, #7d94b5, #6ceeff, #7d94b5, #ccc, #6ceeff);
+}
+
+.main-timeline .timeline.currecnt .title,
+.main-timeline .timeline:hover .title {
+    color: #7d94b5;
+}
+
+.progress-bar {
+    background: linear-gradient(135deg, #7d94b5, #6ceeff, #7d94b5, #ccc, #6ceeff);
+}
+
+.filter-tabs .active-filter,
+.filter-tabs .fil-cat:focus,
+.filter-tabs .fil-cat:hover {
+    color: #7d94b5;
+}
+
+.label-portfolio::before {
+    border-color: #7d94b5 rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #7d94b5;
+}
+
+.label-portfolio>span {
+    color: #7d94b5;
+}
+
+.blog-grid-flex .blog-item:hover .blog-article>.article-link>a {
+    background: linear-gradient(135deg, #7d94b5, #6ceeff, #7d94b5, #ccc, #6ceeff);
+}
+
+.blog-grid-flex .blog-item-quote .article-img::after {
+    background-color: #7d94b5;
+}
+
+input:hover,
+textarea:hover,
+input:focus,
+textarea:focus {
+    border-bottom: 1px solid #7d94b5;
+}
+
+.bt-submit {
+    background: linear-gradient(135deg, #7d94b5, #6ceeff, #7d94b5, #ccc, #6ceeff);
+}
+
+.contact-icon i {
+    background: linear-gradient(135deg, #7d94b5, #6ceeff, #7d94b5, #ccc, #6ceeff);
+}
+
+.social-media-block::after {
+    border-color: rgba(0, 0, 0, 0) #7d94b5 #7d94b5 rgba(0, 0, 0, 0);
+}
+
+.social-media-block::before {
+    border-color: #7d94b5 rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #7d94b5;
+}
+
+.social-media-block a {
+    color: #7d94b5;
+}
+
+.social-media-block a:hover {
+    background: linear-gradient(135deg, #7d94b5, #6ceeff, #7d94b5, #ccc, #6ceeff);
+}
+
+.post-meta li:hover,
+.post-meta li a:hover {
+    color: #7d94b5;
+}
+
+#posts-nav li a:hover {
+    color: #7d94b5;
+}
+
+.comment-by a.reply:hover,
+.comment-by a.reply:hover i {
+    background: linear-gradient(135deg, #7d94b5, #6ceeff, #7d94b5, #ccc, #6ceeff);
+}
+
+.search-blog-input input:hover,
+.search-blog-input input:focus {
+    border: 1px solid #7d94b5;
+}
+
+.widget .search-blog-input .input button {
+    color: #7d94b5;
+}
+
+.widget-text h5 a:hover {
+    color: #7d94b5;
+}
+
+.tagcloud a:hover {
+    background: linear-gradient(135deg, #7d94b5, #6ceeff, #7d94b5, #ccc, #6ceeff);
+    border: 1px solid #7d94b5;
+}
+
+.error-content .error-message h2 {
+    color: #7d94b5;
+}
+
+.error-content .error-message h2 {
+    color: #7d94b5;
+}
+
+.error-content .form-error-search .btn-search {
+    background: linear-gradient(135deg, #7d94b5, #6ceeff, #7d94b5, #ccc, #6ceeff);
+}
+
+.error-content .description a {
+    color: #7d94b5
+}
+
+.profile-picture-block {
+    background: linear-gradient(135deg, #7d94b5, #6ceeff, #7d94b5, #ccc, #6ceeff);
+}
+
+.my-photo {
+    background: linear-gradient(135deg, #7d94b5, #6ceeff, #7d94b5, #ccc, #6ceeff);
+}
+
+.header-main-menu li a:hover,
+.header-main-menu li a.active {
+    background-color: rgba(17, 214, 240, 0.18);
+}
+
+.portfolio-grid .portfolio-item:hover .portfolio-data {
+    background-color: rgba(17, 214, 240, 0.65);
+}
+
+.portfolio-head-content {
+    background-color: rgba(17, 214, 240, 0.65);
+}
+
+.blog-grid-flex .blog-article .comment-like {
+    background-color: rgba(17, 214, 240, 0.6);
+}
+
+body::-webkit-scrollbar-thumb,
+.sub-page::-webkit-scrollbar-thumb,
+.header::-webkit-scrollbar-thumb {
+    background-color: rgba(17, 214, 240, 0.30);
+}
+
+img.responsive-logo {
+    border: 3px solid rgba(17, 214, 240, 0.30);
+}
+
+.widget .categories-list li a:hover,
+.widget .categories-list li a.active {
+    color: #7d94b5
+}
+
+div.datedropper.primary:before,
+div.datedropper.primary .pick-submit,
+div.datedropper.primary .pick-lg-b .pick-sl:before,
+div.datedropper.primary .pick-m,
+div.datedropper.primary .pick-lg-h {
+    background: linear-gradient(135deg, #7d94b5, #6ceeff, #7d94b5, #ccc, #6ceeff);
+    background-size: 400% 400% !important;
+}
+
+#td-clock-0 .td-select:after {
+    box-shadow: 0 0 0 1px #7d94b5 !important;
+}
+
+#td-clock-0 .td-clock:before {
+    border-color: #7d94b5 !important;
+}
+
+.td-select.td-rubber svg {
+    stroke: #7d94b5 !important;
+}
+
+#td-clock-0 .td-lancette {
+    border: 2px solid #7d94b5 !important;
+}
+
+#td-clock-0 .td-clock {
+    box-shadow: 0 0 0 1px #7d94b5, 0 0 0 8px rgba(0, 0, 0, 0.05) !important;
+}
+
+.list-appointments li.available i {
+    background: linear-gradient(135deg, #7d94b5, #6ceeff, #7d94b5, #ccc, #6ceeff);
+}
+
+.p-price {
+    color: #7d94b5;
+}
+
+#planrecommended {
+    background: #7d94b5;
+}
