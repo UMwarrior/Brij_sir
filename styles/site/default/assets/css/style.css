@@ -1237,7 +1237,8 @@ span.typed {
     margin: 5px 0;
 }
 
-@media only screen and (max-width: 991px) {
+
+/* @media only screen and (max-width: 991px) {
     .bout-list-summry li {
         margin-bottom: 15px;
     }
@@ -1259,7 +1260,7 @@ span.typed {
         width: 80px !important;
         height: 80px !important;
     }
-}
+} */
 
 
 /*8.3 Video Intro*/
