@@ -150,7 +150,7 @@ jQuery(document).ready(function() {
         pagination: false,
         dots: false,
         loop: true,
-        //        autoplay: true,
+        autoplay: true,
         autoplayTimeout: 2000,
         autoplayHoverPause: true,
         margin: 10,
