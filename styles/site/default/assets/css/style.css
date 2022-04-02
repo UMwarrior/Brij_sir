@@ -1231,6 +1231,8 @@ span.typed {
 .service-block .service-text {
     padding: 0;
     vertical-align: middle;
+    text-align: justify;
+    font-weight: 600 !important;
 }
 
 .service-block .service-text h4 {
